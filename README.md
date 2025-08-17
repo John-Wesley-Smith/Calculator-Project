@@ -22,7 +22,7 @@ multiplication, and division with a clean UI.
 
 ### 🎥 Live Demo (GIF)
 
-`<img src="assets/calculator-demo.gif" alt="Calculator Demo" width="400"/>`{=html}
+<img src="assets/calculator-demo.gif" alt="Calculator Demo" width="400"/>
 
 
 ------------------------------------------------------------------------
